@@ -1,0 +1,21 @@
+PD0000000006, HP Gaming Victus 15, 90, 2000, cai, 3000mAh, Gaming
+PD0000000007, HP Pavilion X360, 95, 2400, cai, 2500mAh, Van Phong
+PD0000000008, PC GVN Homework i7, 90, 2500, bo, HP
+PD0000000009, HP ZBook Firefly, 89, 2000, cai, 2000mAh, Van Phong
+PD0000000010, Acer Nitro 5, 200, 2700, cai, 3000mAh, Gaming
+PD0000000011, Acer Predator Helios, 152, 3000, cai, 3500mAh, Gaming
+PD0000000012, Acer Aspire, 300, 2400, cai, 2500mAh, Gaming
+PD0000000013, PC Experon, 200, 2500, bo, Acer
+PD0000000014, Lenovo Thinkpad P14S G2, 149, 3000, cai, 3400mAh, Van Phong
+PD0000000015, Lenovo Yoga Slim, 181, 2100, cai, 2500mAh, Van phong
+PD0000000016, Lenovo Ideapad Gaming 3, 150, 2000, cai, 3000mAh, Gaming
+PD0000000017, PC Leren 7, 114, 3000, Bo, Lenovo
+PD0000000018, Gigabyte MF, 280, 2990, cai, 2500mAh, Gaming
+PD0000000019, Gigabyte G5, 152, 2000, cai, 3000mAh, Gaming
+PD0000000020, Gigabyte G5 KF, 110, 2400, cai, 3500mAh, Gaming
+PD0000000021, Gigabyte G5 GE, 122, 2100, cai, 2400mAh, Gaming
+PD0000000022, MacBook Air M1, 138, 2300, cai, 2000mAh, Van Phong
+PD0000000023, MacBook Air M2, 493, 2700, cai, 2500mAh, Van Phong
+PD0000000024, MacBook Air 15 M2, 64, 3000, cai, 2600mAh, Van Phong
+PD0000000025, Apple MacBook Air M2, 315, 5200, cai, 2900mAh, Van Phong
+PD6093130309, GeForce RTX 4090, 100, 3315, cai
